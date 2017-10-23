@@ -47,6 +47,7 @@ function estructurar() {
  		 }    
 	 }
  }
+ 
  numerar();
 
  function numerar() {
